@@ -866,9 +866,9 @@ hexo-renderer-ejs@^0.2.0:
     ejs "^1.0.0"
     object-assign "^4.0.1"
 
-hexo-renderer-marked@^0.2.10:
+hexo-renderer-marked@^0.2.11:
   version "0.2.11"
-  resolved "http://registry.npm.taobao.org/hexo-renderer-marked/download/hexo-renderer-marked-0.2.11.tgz#32fd3880d3c3979fd7b8015ec121a6c44ff49f84"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-marked/-/hexo-renderer-marked-0.2.11.tgz#32fd3880d3c3979fd7b8015ec121a6c44ff49f84"
   dependencies:
     hexo-util "^0.6.0"
     marked "^0.3.5"
@@ -1196,8 +1196,8 @@ levn@~0.3.0:
     type-check "~0.3.2"
 
 lodash@^4.1.0, lodash@^4.13.1, lodash@^4.2.1:
-  version "4.17.2"
-  resolved "http://registry.npm.taobao.org/lodash/download/lodash-4.17.2.tgz#34a3055babe04ce42467b607d700072c7ff6bf42"
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
 
 lower-case@^1.1.1:
   version "1.1.3"
